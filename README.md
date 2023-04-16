@@ -1,2 +1,2 @@
-# potfolio
+# Portfolio
 Emilio Gutiérrez Torres Website
